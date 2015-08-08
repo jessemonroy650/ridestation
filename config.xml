@@ -3,14 +3,14 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.bsdmasterindex.basic-screen-layout2"
+        id          = "com.bsdmasterindex.ridestation"
         version     = "1.0"
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
         <preference name="phonegap-version" value="3.5.0" />
 
-        <name>Screen Layout 2</name>
-        <description>Basic Screen Layout</description>
+        <name>ridestation</name>
+        <description>a demo implementation</description>
         <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">
         Jesse Monroy
         </author>
