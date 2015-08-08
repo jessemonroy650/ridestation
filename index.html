@@ -42,6 +42,7 @@
             document.getElementById('headerClear').style.marginTop = "20px";
             document.getElementById('header').style.marginTop = "20px";
         } else (device.platform === "Android") {
+            alert("got Android.");
             // Get rid of 300ms delay
             document.addEventListener('DOMContentLoaded', function() { FastClick.attach(document.body); }, false);
         }
